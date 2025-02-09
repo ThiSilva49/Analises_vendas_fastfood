@@ -5,7 +5,7 @@
 <h2>📂 Estrutura do Repositório</h2>
 
 <ul>
-  <li><code>data/</code> → Contém o arquivo de dados CSV.</li>
+  <li>→ Contém o arquivo de dados CSV.</li>
   <li><code>notebooks/</code> → Contém o Jupyter Notebook com os gráficos interativos.</li>
   <li><code>scripts/</code> → Código Python separado para gerar cada gráfico.</li>
   <li><code>README.md</code> → Documentação do projeto.</li>
